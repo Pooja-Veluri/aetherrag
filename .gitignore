@@ -1,0 +1,44 @@
+# ── Secrets ────────────────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# ── Persistent runtime state ──────────────────────────────────────────────
+chroma_db/
+memory.db
+memory.db-shm
+memory.db-wal
+semantic_cache.db
+semantic_cache.db-shm
+semantic_cache.db-wal
+test_check.db*
+evaluation_report.json
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# ── Editor / OS ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Logs ──────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Docker volumes (if any spillover) ─────────────────────────────────────
+opensearch-data/

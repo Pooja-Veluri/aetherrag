@@ -1,0 +1,177 @@
+[
+    {
+        "id": "Q1",
+        "question": "Who did Prime Minister Narendra Modi meet during the bilateral visit to India?",
+        "ground_truth": "Venezuela's acting President Delcy Rodriguez",
+        "source_page": 1,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q2",
+        "question": "Why is India interested in strengthening relations with Venezuela?",
+        "ground_truth": "India is seeking increased crude oil imports and investment opportunities in sectors such as critical minerals, pharmaceuticals and automobiles.",
+        "source_page": 1,
+        "question_type": "reasoning"
+    },
+    {
+        "id": "Q3",
+        "question": "How many people died in the Flourish Stay B&B fire in Delhi?",
+        "ground_truth": "21 people died in the fire.",
+        "source_page": 1,
+        "question_type": "numerical"
+    },
+    {
+        "id": "Q4",
+        "question": "What treatment had the African couple come to Delhi for?",
+        "ground_truth": "They had come to Delhi for IVF treatment.",
+        "source_page": 1,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q5",
+        "question": "Which political party announced it would skip the INDIA alliance meeting?",
+        "ground_truth": "DMK",
+        "source_page": 1,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q6",
+        "question": "Why did DMK decide not to attend the INDIA alliance meeting?",
+        "ground_truth": "DMK cited resentment among its cadres over what it described as Congress's betrayal following the Tamil Nadu Assembly elections.",
+        "source_page": 1,
+        "question_type": "reasoning"
+    },
+    {
+        "id": "Q7",
+        "question": "What value of defence procurement is expected under the revised delegation of financial powers?",
+        "ground_truth": "More than Rs 1.25 lakh crore.",
+        "source_page": 1,
+        "question_type": "numerical"
+    },
+    {
+        "id": "Q8",
+        "question": "Where did the hospital fire that killed five patients occur?",
+        "ground_truth": "Prasad Hospital in Muzaffarpur, Bihar.",
+        "source_page": 1,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q9",
+        "question": "What was the suspected cause of the fire at Prasad Hospital?",
+        "ground_truth": "A short circuit.",
+        "source_page": 1,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q10",
+        "question": "Which body prepared the draft AI regulations for courts in India?",
+        "ground_truth": "The Supreme Court AI Committee.",
+        "source_page": 1,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q11",
+        "question": "Until what date can comments be submitted on the draft AI regulations?",
+        "ground_truth": "June 20, 2026.",
+        "source_page": 1,
+        "question_type": "numerical"
+    },
+    {
+        "id": "Q12",
+        "question": "When is the southwest monsoon expected to reach Goa and southern Maharashtra?",
+        "ground_truth": "Within two to three days after June 5, 2026.",
+        "source_page": 1,
+        "question_type": "temporal"
+    },
+    {
+        "id": "Q13",
+        "question": "What deadline did CM Devendra Fadnavis set for the Goregaon-Mulund twin tunnel project?",
+        "ground_truth": "January 2029.",
+        "source_page": 2,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q14",
+        "question": "Which project is expected to become Mumbai's first pedestrian zone?",
+        "ground_truth": "Kala Ghoda Art Avenue.",
+        "source_page": 2,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q15",
+        "question": "Which international streets inspired the Kala Ghoda Art Avenue project?",
+        "ground_truth": "Buchanan Street in Glasgow and Carnaby Street in London.",
+        "source_page": 2,
+        "question_type": "multi_hop"
+    },
+    {
+        "id": "Q16",
+        "question": "How much property did the Enforcement Directorate seize in the Dola-linked narcotics probe?",
+        "ground_truth": "Assets worth approximately Rs 1.33 crore.",
+        "source_page": 2,
+        "question_type": "numerical"
+    },
+    {
+        "id": "Q17",
+        "question": "Which fighter aircraft became the first frontline combat aircraft to land at Navi Mumbai International Airport?",
+        "ground_truth": "Sukhoi Su-30MKI.",
+        "source_page": 2,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q18",
+        "question": "Why was Catia Mwendlane discharged after 13 years in the narcotics case?",
+        "ground_truth": "Because no admissible chemical analysis report conclusively established that the seized substance was a banned narcotic drug.",
+        "source_page": 2,
+        "question_type": "reasoning"
+    },
+    {
+        "id": "Q19",
+        "question": "How many retired personnel does BEST plan to recruit for security duties?",
+        "ground_truth": "181 retired personnel.",
+        "source_page": 2,
+        "question_type": "numerical"
+    },
+    {
+        "id": "Q20",
+        "question": "What concern have environmentalists raised regarding firefly festivals?",
+        "ground_truth": "Firefly festivals interfere with breeding cycles and disrupt fragile ecosystems.",
+        "source_page": 3,
+        "question_type": "reasoning"
+    },
+    {
+        "id": "Q21",
+        "question": "What is the value of BMC's Environment Budget for FY 2026-27?",
+        "ground_truth": "Rs 20,700 crore.",
+        "source_page": 3,
+        "question_type": "numerical"
+    },
+    {
+        "id": "Q22",
+        "question": "What proposal was adopted to help protect mangroves, wetlands and mudflats in the Mumbai Metropolitan Region?",
+        "ground_truth": "A blue-carbon credit system.",
+        "source_page": 3,
+        "question_type": "factoid"
+    },
+    {
+        "id": "Q23",
+        "question": "Why do experts say planting one tree per housing society will not significantly reduce urban heat?",
+        "ground_truth": "Urban heat reduction depends on vegetation type, density, urban morphology, plant traits and excessive concretisation, not isolated tree planting.",
+        "source_page": 3,
+        "question_type": "reasoning"
+    },
+    {
+        "id": "Q24",
+        "question": "How much hydroponic weed was seized from the passenger arriving from Hanoi?",
+        "ground_truth": "4.758 kilograms.",
+        "source_page": 4,
+        "question_type": "numerical"
+    },
+    {
+        "id": "Q25",
+        "question": "What event will be held in Mumbai on National Animal Rights Day?",
+        "ground_truth": "A memorial and awareness programme at Carter Road promenade in Bandra West.",
+        "source_page": 4,
+        "question_type": "factoid"
+    }
+]
